@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://blog.beatrevival.me/</loc>
+    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.beatrevival.me/posts/</loc>
+    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.beatrevival.me/posts/progress-report-3/</loc>
+    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.beatrevival.me/posts/progress-report-2/</loc>
+    <lastmod>2024-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.beatrevival.me/posts/interception/</loc>
+    <lastmod>2023-12-14T14:23:04+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.beatrevival.me/posts/welcome/</loc>
+    <lastmod>2023-12-14T00:52:04+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.beatrevival.me/categories/</loc>
+  </url><url>
+    <loc>https://blog.beatrevival.me/tags/</loc>
+  </url>
+</urlset>
